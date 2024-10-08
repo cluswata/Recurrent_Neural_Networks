@@ -58,9 +58,9 @@ The performance of both models was assessed using metrics like RMSE (Root Mean S
 
 ![LLY_next10days.jpg](Graphs/LLY_next10days.jpg)
 
-[View Interactive Plot](Graphs/interactive_plot1.html)
+[View Interactive Plot 1](Graphs/interactive_plot1.html)
 
-[View Interactive Plot](Graphs/interactive_plot2.html)
+[View Interactive Plot 2](Graphs/interactive_plot2.html)
 
 
 ## Limitations of the Project
